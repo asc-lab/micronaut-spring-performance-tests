@@ -1,12 +1,12 @@
 Empty project with dependencies on Web,JPA,Loombok,Validations
 build time with test: 7,1s
-startup time:
+startup time: 3,8sec
 
 
-Project with Customer func dependencies on Web,JPA,Loombok,Validations
-build time without test:
+Project with Customer func (1 controller, 4 services, 1 repository, 1 component, 1 entity, 1 embedable), dependencies on Web,JPA,Loombok,Validations
+build time without test: 7,96
 build time with test:
-startup time:
+startup time: 3,32
 
 
 Project with Customer+Product func dependencies on Web,JPA,Loombok,Validations
