@@ -1,0 +1,23 @@
+Empty project with dependencies on Web,JPA,Loombok,Validations
+build time with test: 7,1s
+startup time:
+
+
+Project with Customer func dependencies on Web,JPA,Loombok,Validations
+build time without test:
+build time with test:
+startup time:
+
+
+Project with Customer+Product func dependencies on Web,JPA,Loombok,Validations
+build time without test:
+build time with test:
+startup time:
+
+
+Project with Customer+Product+Order func dependencies on Web,JPA,Loombok,Validations
+build time without test:
+build time with test:
+startup time:
+
+
