@@ -8,10 +8,10 @@
 		<version>2.1.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.asc.lab</groupId>
-	<artifactId>perftest</artifactId>
+	<groupId>pl.altkomsoftware</groupId>
+	<artifactId>spring-perftest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>perftest</name>
+	<name>spring-perftest</name>
 	<description>project to compare compile time, startup time and performance</description>
 
 	<properties>

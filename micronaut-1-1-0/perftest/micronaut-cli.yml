@@ -1,5 +1,5 @@
 profile: service
-defaultPackage: perftest
+defaultPackage: pl.altkomsoftware.micronaut.perftest
 ---
 testFramework: junit
 sourceLanguage: java
