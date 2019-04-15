@@ -2,7 +2,6 @@
 micronaut:
   application:
     name: perftest
-
 ---
 datasources.default: {}
 ---
