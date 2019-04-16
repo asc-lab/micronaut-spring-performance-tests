@@ -17,4 +17,6 @@ jpa:
       hibernate:
         hbm2ddl:
           auto: update
-
+---
+beans:
+  counter: true
