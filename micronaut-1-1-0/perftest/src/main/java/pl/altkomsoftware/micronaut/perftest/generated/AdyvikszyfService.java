@@ -1,0 +1,11 @@
+package pl.altkomsoftware.micronaut.perftest.generated;
+
+import javax.inject.Singleton;
+
+@Singleton
+public class AdyvikszyfService {
+
+    public AdyvikszyfService(DsqsppxpgpService dsqsppxpgpService, ZeyrjlhxfrService zeyrjlhxfrService, MtvnopcqniService mtvnopcqniService, BhwgdjbzhsService bhwgdjbzhsService, NaqcnrlhdmService naqcnrlhdmService, IjysdpfdolService ijysdpfdolService, KshbmdgerxService kshbmdgerxService, VfslaqzoteService vfslaqzoteService, DkuzpenedjService dkuzpenedjService, NaisicgrpmService naisicgrpmService, LqlklwmbqjService lqlklwmbqjService, BhqfpnydzaService bhqfpnydzaService, ZlonupqvsyService zlonupqvsyService, ZxnbbpdkhrService zxnbbpdkhrService, LaaspgrwkfService laaspgrwkfService, GhxgobzdtiService ghxgobzdtiService, XvaifcgfixService xvaifcgfixService, JcufhkleijService jcufhkleijService, ExnzufbinnService exnzufbinnService, DjcveqrxumService djcveqrxumService, SblczgdigsService sblczgdigsService, CekzbdampcService cekzbdampcService, NgvwbgaqkuService ngvwbgaqkuService, BtlrkcvkfhService btlrkcvkfhService, DyrspsnlkzService dyrspsnlkzService, AubdkgkhefService aubdkgkhefService, KtzrpgoyntService ktzrpgoyntService, LmzdhecopxService lmzdhecopxService, MfiysptmgmService mfiysptmgmService, BgcbsicoxwService bgcbsicoxwService, EomstkkdicService eomstkkdicService, ApmqyopvbhService apmqyopvbhService, PnntwsdebrService pnntwsdebrService, KmsykpgljkService kmsykpgljkService, AdcswsqrjtService adcswsqrjtService, SbvmbtdhkgService sbvmbtdhkgService, HxiwtvjrbrService hxiwtvjrbrService, JkdfwrygwzService jkdfwrygwzService, UrwkpbcgkfService urwkpbcgkfService, EjytxqjyliService ejytxqjyliService, YcvuonztvkService ycvuonztvkService, GnuuycxukyService gnuuycxukyService, DledghqbjsService dledghqbjsService, HnecuccfvhService hnecuccfvhService, HbgznozycyService hbgznozycyService, NatyxklucaService natyxklucaService, CidvaakghqService cidvaakghqService, HkjjvslzjqService hkjjvslzjqService, VdfztokeslService vdfztokeslService) { }
+
+    public String getGreeting() { return "Hello AdyvikszyfService"; }
+}

@@ -1,0 +1,11 @@
+package pl.altkomsoftware.micronaut.perftest.generated;
+
+import javax.inject.Singleton;
+
+@Singleton
+public class WsqokevlsjService {
+
+    public WsqokevlsjService(YeqgusvtfbService yeqgusvtfbService, BwgswhmstlService bwgswhmstlService, QgivftlbrpService qgivftlbrpService, LaaspgrwkfService laaspgrwkfService, IlcfqtakpqService ilcfqtakpqService, UeunujwcdmService ueunujwcdmService, IyhjptiojmService iyhjptiojmService, PuwrnyvtmvService puwrnyvtmvService, MjjbsguilyService mjjbsguilyService, HmniltaezvService hmniltaezvService, NxkykvopcuService nxkykvopcuService, CmboureeovService cmboureeovService, MmyvpiebkpService mmyvpiebkpService, StjoluozitService stjoluozitService, KxlizjwxsoService kxlizjwxsoService, XricsemqfzService xricsemqfzService, SnejtoxygzService snejtoxygzService, YlqbsaovtcService ylqbsaovtcService, CgfyzbkbvgService cgfyzbkbvgService, PokrkmosjfService pokrkmosjfService, AcovjrowfvService acovjrowfvService, HkjjvslzjqService hkjjvslzjqService, SqpknuwpsuService sqpknuwpsuService, KvhkbaoyakService kvhkbaoyakService, OfklhorzctService ofklhorzctService, VcsrjhmmcyService vcsrjhmmcyService, WiiwvuvlhbService wiiwvuvlhbService, SvpsdusqcxService svpsdusqcxService, PuibhrjnqzService puibhrjnqzService, AgwepvumibService agwepvumibService, AizmgelohyService aizmgelohyService, IovzamruoaService iovzamruoaService, NaisicgrpmService naisicgrpmService, HybtmvzstmService hybtmvzstmService, PgrdagwnqfService pgrdagwnqfService, IrqfdpknmxService irqfdpknmxService, BxwmtyzuaiService bxwmtyzuaiService, RaeanhyomdService raeanhyomdService, WowwfhjbczService wowwfhjbczService, UoqzjizjqqService uoqzjizjqqService, LgmobzgukdService lgmobzgukdService, FrokknxudzService frokknxudzService, KqlvgccpmyService kqlvgccpmyService, SssjlhgfreService sssjlhgfreService, NhxwzwrnwdService nhxwzwrnwdService, XdggkpmbjrService xdggkpmbjrService, DjcveqrxumService djcveqrxumService, KkkcfvsdqxService kkkcfvsdqxService, MlmnilgtdvService mlmnilgtdvService) { }
+
+    public String getGreeting() { return "Hello WsqokevlsjService"; }
+}

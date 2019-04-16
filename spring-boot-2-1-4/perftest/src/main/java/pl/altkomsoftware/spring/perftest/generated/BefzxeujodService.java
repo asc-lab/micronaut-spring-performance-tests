@@ -1,0 +1,12 @@
+package pl.altkomsoftware.spring.perftest.generated;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class BefzxeujodService {
+
+   public BefzxeujodService(NwvnegihqdService nwvnegihqdService, NdanehrzljService ndanehrzljService, DmswonetkoService dmswonetkoService, TyelpjsptbService tyelpjsptbService, MiivjoupkeService miivjoupkeService, TnxbyknlqlService tnxbyknlqlService, UcfcjmrwfhService ucfcjmrwfhService, EhjmmasaerService ehjmmasaerService, VgwplvczeyService vgwplvczeyService, MghuhvciroService mghuhvciroService, NlbpnznnxyService nlbpnznnxyService, CrfnqvcsrnService crfnqvcsrnService, XtkofambzoService xtkofambzoService, LnhzephoseService lnhzephoseService, DlnpkhhpvsService dlnpkhhpvsService, JnesgpygvzService jnesgpygvzService, EsfqnwxrmqService esfqnwxrmqService, UckhflndhyService uckhflndhyService, ZcqkxhydctService zcqkxhydctService, QcaxpzwoqhService qcaxpzwoqhService, InsmtqtitbService insmtqtitbService, ZjyqzpfneeService zjyqzpfneeService, ItghnbjgfoService itghnbjgfoService, KijbqtzlfqService kijbqtzlfqService, BwkveynjyqService bwkveynjyqService, XchvszhxhbService xchvszhxhbService, BejzqtrbgtService bejzqtrbgtService, WktizszgvwService wktizszgvwService, XkfeguepacService xkfeguepacService, QfvckpzxsvService qfvckpzxsvService, YmpyahdjckService ympyahdjckService, CpcvjlxzbpService cpcvjlxzbpService, HmufqgoehaService hmufqgoehaService, VnidtzahexService vnidtzahexService, UncktvmtacService uncktvmtacService, ZnspvwmkvfService znspvwmkvfService, VmvyczgbbrService vmvyczgbbrService, SmuqlicgexService smuqlicgexService, AeumjcqfojService aeumjcqfojService, AqrcxwwqxjService aqrcxwwqxjService, VatkpbzuylService vatkpbzuylService, HovlxhybzmService hovlxhybzmService, QndwgxbyyiService qndwgxbyyiService, QchjeqcqgwService qchjeqcqgwService, EqjmfglhenService eqjmfglhenService, UuivuzfslfService uuivuzfslfService, FprczxggwfService fprczxggwfService, FhkxzqjpcrService fhkxzqjpcrService, DgjagusbltService dgjagusbltService) { }
+
+   public String getGreeting() { return "Hello BefzxeujodService"; }
+
+}

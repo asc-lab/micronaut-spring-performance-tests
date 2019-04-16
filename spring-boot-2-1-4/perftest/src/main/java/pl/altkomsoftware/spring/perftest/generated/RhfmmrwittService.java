@@ -1,0 +1,12 @@
+package pl.altkomsoftware.spring.perftest.generated;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class RhfmmrwittService {
+
+   public RhfmmrwittService(EmynwcbehcService emynwcbehcService, QhkqpjwfbhService qhkqpjwfbhService, DbegaxmwkvService dbegaxmwkvService, NbhickepojService nbhickepojService, VnidtzahexService vnidtzahexService, TyelpjsptbService tyelpjsptbService, CopaoennofService copaoennofService, YyrarbivtsService yyrarbivtsService, UvwsqgtgncService uvwsqgtgncService, WgujephcvxService wgujephcvxService, HovlxhybzmService hovlxhybzmService, RkfwviuyfpService rkfwviuyfpService, JowovngdswService jowovngdswService, MqtmurwjskService mqtmurwjskService, ZrcjzjokvuService zrcjzjokvuService, QtxjwxaahcService qtxjwxaahcService, VnxyztlwyqService vnxyztlwyqService, YfbvvnoukhService yfbvvnoukhService, CvqiamelmrService cvqiamelmrService, ReikveeqopService reikveeqopService, ZybluejqfzService zybluejqfzService, HpmomcatpgService hpmomcatpgService, ItjnpqbamvService itjnpqbamvService, VrxnxjsnepService vrxnxjsnepService, ZcqkxhydctService zcqkxhydctService, NmyvkmrjxrService nmyvkmrjxrService, NcqjeexandService ncqjeexandService, JyjfuhchqcService jyjfuhchqcService, KfflhujoqiService kfflhujoqiService, DkjoldtwukService dkjoldtwukService, NdanehrzljService ndanehrzljService, QzeepvbflbService qzeepvbflbService, DlhmicxkpfService dlhmicxkpfService, HuyevfrtwxService huyevfrtwxService, KloammmyuqService kloammmyuqService, NipprxdyxjService nipprxdyxjService, DbvsjkndxlService dbvsjkndxlService, OpvgskyyidService opvgskyyidService, EgmdiriiryService egmdiriiryService, KaguxhtnywService kaguxhtnywService, BwkveynjyqService bwkveynjyqService, BqhytdbrwmService bqhytdbrwmService, MwslgpciytService mwslgpciytService, HmhanrrvtgService hmhanrrvtgService, OzphecvphbService ozphecvphbService, KcaudanbozService kcaudanbozService, JjhubcemkuService jjhubcemkuService, AsimgzytdaService asimgzytdaService) { }
+
+   public String getGreeting() { return "Hello RhfmmrwittService"; }
+
+}

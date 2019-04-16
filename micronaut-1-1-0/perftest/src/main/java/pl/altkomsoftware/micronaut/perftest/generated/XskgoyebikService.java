@@ -1,0 +1,11 @@
+package pl.altkomsoftware.micronaut.perftest.generated;
+
+import javax.inject.Singleton;
+
+@Singleton
+public class XskgoyebikService {
+
+    public XskgoyebikService(QazbyqodmyService qazbyqodmyService, EhfdtwzelxService ehfdtwzelxService, QjyiiyepsjService qjyiiyepsjService, PqwxgyukriService pqwxgyukriService, VtfanhhsezService vtfanhhsezService, QiuxcvomesService qiuxcvomesService, CebcmcrfklService cebcmcrfklService, LzfszfdvilService lzfszfdvilService, DfmhksqkcnService dfmhksqkcnService, SrzfxemcmyService srzfxemcmyService, DouycrivkwService douycrivkwService, GgyzoibrjdService ggyzoibrjdService, DuchslcksgService duchslcksgService, AcrkaqrvqaService acrkaqrvqaService, FqakjjggfyService fqakjjggfyService, XricsemqfzService xricsemqfzService, YjdwmbjyvkService yjdwmbjyvkService, EjytxqjyliService ejytxqjyliService, NteubjuoupService nteubjuoupService, TwgbvikobaService twgbvikobaService, CgelgbfxlfService cgelgbfxlfService, FrokknxudzService frokknxudzService, KojjnbuaqlService kojjnbuaqlService, ConiyoenbzService coniyoenbzService, MbbqmfxhcjService mbbqmfxhcjService, RmollcoojdService rmollcoojdService, XmizyoeautService xmizyoeautService, YomykedfopService yomykedfopService, JtitgttzqrService jtitgttzqrService, FlvnzoqmzvService flvnzoqmzvService, SmjlonalekService smjlonalekService, IaoarypravService iaoarypravService, TckltgqwfmService tckltgqwfmService, JamywykplnService jamywykplnService, YrwketjmahService yrwketjmahService, AyfgzshwbwService ayfgzshwbwService, QquggrqtpiService qquggrqtpiService, BtlrkcvkfhService btlrkcvkfhService, KxlizjwxsoService kxlizjwxsoService, KbqwobqpdiService kbqwobqpdiService, SvmcygctelService svmcygctelService, NftokbxdxzService nftokbxdxzService, AdnfanqojdService adnfanqojdService, CbtumgeqaoService cbtumgeqaoService, YevjtszzxfService yevjtszzxfService, ZkhcxfouykService zkhcxfouykService, PwrysbchilService pwrysbchilService, HmniltaezvService hmniltaezvService, KrsavtnpwvService krsavtnpwvService) { }
+
+    public String getGreeting() { return "Hello XskgoyebikService"; }
+}
