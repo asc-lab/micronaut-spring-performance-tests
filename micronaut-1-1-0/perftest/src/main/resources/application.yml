@@ -19,4 +19,4 @@ jpa:
           auto: update
 ---
 beans:
-  counter: true
+  counter: false
