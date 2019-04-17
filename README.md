@@ -8,44 +8,106 @@ Few words about projects.
 
 **Dependencies:** Web, JPA, Lombok, Validations
 
-build time with test: 7,1s \
-startup time: 3,8sec
+**Windows 10 on private private** \
+Intel Core i7-3610QM, 16GB RAM, Samsung SSD 850 EVO
 
-### Project with Customer func
+|                         | Micronaut | Spring |
+| ----------------------- | ---------:| ------:|
+| build time without test | 0.000s    | 0.000s |
+| build time with test    | 0.000s    | 0.000s |
+| startup time            | 0.000s    | 0.000s |
+| memory usage            | 0.000s    | 0.000s |
 
-1 controller, 4 services, 1 repository, 1 component, 1 entity, 1 embeddable \
-**Dependencies:** Web, JPA, Lombok, Validations
+**Ubuntu on private laptop** \
+TODO
 
-build time without test: 7,96s \
-build time with test: \
-startup time: 3,32s
+|                         | Micronaut | Spring |
+| ----------------------- | ---------:| ------:|
+| build time without test | 0.000s    | 0.000s |
+| build time with test    | 0.000s    | 0.000s |
+| startup time            | 0.000s    | 0.000s |
+| memory usage            | 0.000s    | 0.000s |
 
-### Project with Customer+Product func
+**CentOS on server** \
+TODO
 
-**Dependencies:** Web, JPA, Lombok, Validations
-
-build time without test: \
-build time with test: \
-startup time:
+|                         | Micronaut | Spring |
+| ----------------------- | ---------:| ------:|
+| build time without test | 0.000s    | 0.000s |
+| build time with test    | 0.000s    | 0.000s |
+| startup time            | 0.000s    | 0.000s |
+| memory usage            | 0.000s    | 0.000s |
 
 ### Project with Customer+Product+Order func
 
 **Dependencies:** Web, JPA, Lombok, Validations
 
-build time without test: \
-build time with test: \
-startup time:
+**Windows 10 on private private** \
+Intel Core i7-3610QM, 16GB RAM, Samsung SSD 850 EVO
+
+|                         | Micronaut | Spring |
+| ----------------------- | ---------:| ------:|
+| build time without test | ~16s      | 11-12s |
+| build time with test    | 0.000s    | 0.000s |
+| startup time            | ~5.5s     | ~7.0s  |
+| memory usage            | ~240MB    | ~430MB |
+
+**Ubuntu on private laptop** \
+TODO
+
+|                         | Micronaut | Spring |
+| ----------------------- | ---------:| ------:|
+| build time without test | 0.000s    | 0.000s |
+| build time with test    | 0.000s    | 0.000s |
+| startup time            | 0.000s    | 0.000s |
+| memory usage            | 0.000s    | 0.000s |
+
+**CentOS on server** \
+TODO
+
+|                         | Micronaut | Spring |
+| ----------------------- | ---------:| ------:|
+| build time without test | 0.000s    | 0.000s |
+| build time with test    | 0.000s    | 0.000s |
+| startup time            | 0.000s    | 0.000s |
+| memory usage            | 0.000s    | 0.000s |
 
 ### Project with Customer+Product+Order func & 1000 beans auto-generated
 
-In each app context are circa 2200 beans.
+In each app context are circa 1200 beans.
 If you want check exactly number, change property `beans.counter` to `true`.
 
 **Dependencies:** Web, JPA, Lombok, Validations
 
-build time without test: \
-build time with test: \
-startup time:
+**Windows 10 on private private** \
+Intel Core i7-3610QM, 16GB RAM, Samsung SSD 850 EVO
+
+|                         | Micronaut | Spring |
+| ----------------------- | ---------:| ------:|
+| build time without test | 0.000s    | 0.000s |
+| build time with test    | 0.000s    | 0.000s |
+| startup time            | 0.000s    | 0.000s |
+| memory usage            | 0.000s    | 0.000s |
+
+**Ubuntu on private laptop** \
+TODO
+
+|                         | Micronaut | Spring |
+| ----------------------- | ---------:| ------:|
+| build time without test | 0.000s    | 0.000s |
+| build time with test    | 0.000s    | 0.000s |
+| startup time            | 0.000s    | 0.000s |
+| memory usage            | 0.000s    | 0.000s |
+
+**CentOS on server** \
+TODO
+
+|                         | Micronaut | Spring |
+| ----------------------- | ---------:| ------:|
+| build time without test | 0.000s    | 0.000s |
+| build time with test    | 0.000s    | 0.000s |
+| startup time            | 0.000s    | 0.000s |
+| memory usage            | 0.000s    | 0.000s |
 
 ## Beans generator
 We use [Lusk](https://github.com/musketyr/lusk) to generate some example beans for apps.
