@@ -61,3 +61,18 @@ Generate 1000 beans in `generated` package:
 ```
 lusk -c1000 -fspring -p "pl.altkomsoftware.spring.perftest.generated" C:\asclab\asclab-micronaut-vs-spring\spring-boot-2-1-4\perftest
 ```
+
+## Performance tests
+**Prerequisites**: Scala. \
+Go to `gatling-performance-tests` and run:
+```
+mvn gatling:test
+```
+Only for Spring:
+```
+mvn gatling:test -Dgatling.simulationClass=simulations.SpringSimulation
+```
+Only for Micronaut:
+```
+mvn gatling:test -Dgatling.simulationClass=micronaut.MicronautSimulation
+```
