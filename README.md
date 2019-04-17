@@ -84,10 +84,10 @@ Intel Core i7-3610QM, 16GB RAM, Samsung SSD 850 EVO
 
 |                         | Micronaut | Spring |
 | ----------------------- | ---------:| ------:|
-| build time without test | 0.000s    | 0.000s |
-| build time with test    | 0.000s    | 0.000s |
-| startup time            | 0.000s    | 0.000s |
-| memory usage            | 0.000s    | 0.000s |
+| build time without test | ~71s      | ~23s   |
+| build time with test    | ------    | ------ |
+| startup time            | ~9s       | ~12s   |
+| memory usage            | 435MB     | 470MB  |
 
 **Ubuntu on private laptop** \
 TODO
