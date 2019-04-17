@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pl.altkomsoftware</groupId>
-	<artifactId>spring-perftest</artifactId>
+	<artifactId>mongo-spring-perftest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-perftest</name>
+	<name>mongo-spring-perftest</name>
 	<description>project to compare compile time, startup time and performance</description>
 
 	<properties>

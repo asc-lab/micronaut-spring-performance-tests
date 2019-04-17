@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootPerftestApplication {
+public class MongoSpringBootPerftestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootPerftestApplication.class, args);
+		SpringApplication.run(MongoSpringBootPerftestApplication.class, args);
 	}
 
 }
