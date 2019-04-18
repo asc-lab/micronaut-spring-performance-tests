@@ -20,6 +20,7 @@ public class AddProductToOrderHandler {
         Product p = productRepository.findByCode(cmd.getProductCode());
         Order o = orderRepository.findById(cmd.getOrderId());
         o.addProduct(p,cmd.getQuantity());
+        orderRepository.update(o);
         return orderDtoAssembler.toDto(o);
     }
 }

@@ -22,6 +22,11 @@ public class OrderRepository {
         getOrderCollection().insertOne(order);
     }
 
+
+    public void update(Order order) {
+        getOrderCollection().replaceOne(Filters.eq("_id", uuidToBinary(order.getId())), order);
+    }
+
     public Order findById(UUID id){
         return getOrderCollection()
                 .find(Filters.eq("_id", uuidToBinary(id)))
