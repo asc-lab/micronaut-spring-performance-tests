@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: pl.altkomsoftware.micronaut.perftest
+---
+testFramework: junit
+sourceLanguage: java
