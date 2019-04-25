@@ -3,13 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
-        <groupId>pl.altkomsoftware</groupId>
-        <artifactId>micronaut-spring-perftest-parent</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath>
-    </parent>
-
+    <groupId>pl.altkomsoftware</groupId>
     <artifactId>mongo-micronaut-perftest</artifactId>
     <version>0.1</version>
     <name>mongo-micronaut-perftest</name>
@@ -79,11 +73,12 @@
         </dependency>
 
         <!--
-                <dependency>
-                    <groupId>io.micronaut.configuration</groupId>
-                    <artifactId>micronaut-mongo-reactive</artifactId>
-                </dependency>
-                -->
+        <dependency>
+            <groupId>io.micronaut.configuration</groupId>
+            <artifactId>micronaut-mongo-reactive</artifactId>
+        </dependency>
+        -->
+
         <dependency>
             <groupId>org.mongodb</groupId>
             <artifactId>mongo-java-driver</artifactId>
