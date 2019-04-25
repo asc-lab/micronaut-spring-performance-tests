@@ -2,12 +2,19 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>pl.altkomsoftware</groupId>
+
+    <parent>
+        <groupId>pl.altkomsoftware</groupId>
+        <artifactId>micronaut-spring-perftest-parent</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath/>
+    </parent>
+
     <artifactId>mongo-micronaut-perftest</artifactId>
     <version>0.1</version>
     <name>mongo-micronaut-perftest</name>
     <description>project to compare compile time, startup time and performance</description>
-
+    <packaging>jar</packaging>
 
     <properties>
         <micronaut.version>1.1.0</micronaut.version>
