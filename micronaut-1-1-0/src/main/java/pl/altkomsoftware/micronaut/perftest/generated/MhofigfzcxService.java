@@ -1,0 +1,11 @@
+package pl.altkomsoftware.micronaut.perftest.generated;
+
+import javax.inject.Singleton;
+
+@Singleton
+public class MhofigfzcxService {
+
+    public MhofigfzcxService(QxtmpiguecService qxtmpiguecService, TrtxajynctService trtxajynctService, TqgmblejsbService tqgmblejsbService, ArjyaiwyxbService arjyaiwyxbService, WnangzuscyService wnangzuscyService, UfotzzeujgService ufotzzeujgService, SqmfrmbntfService sqmfrmbntfService, PpjbocbukhService ppjbocbukhService, BtedpziezgService btedpziezgService, QrylwcakqeService qrylwcakqeService, OuyvwxppfsService ouyvwxppfsService, LctvoaejrpService lctvoaejrpService, RybhbddswrService rybhbddswrService, TsviuceawjService tsviuceawjService, FldmgogzawService fldmgogzawService, SwuqdpqeruService swuqdpqeruService, LrfgvjebxxService lrfgvjebxxService, OmrlqgoqfjService omrlqgoqfjService, MbcqxsbtzgService mbcqxsbtzgService, GqrlfyfpblService gqrlfyfpblService, DvfayalqnlService dvfayalqnlService, UyryqhieqwService uyryqhieqwService, DwacwjslekService dwacwjslekService, RislunuxuiService rislunuxuiService, SfbqmdtwwxService sfbqmdtwwxService, IouxertdqzService iouxertdqzService, RoadcbmamjService roadcbmamjService, XxucauaxtzService xxucauaxtzService, VrdnawjbhyService vrdnawjbhyService, ItgfrfxraoService itgfrfxraoService, QpwtwvfhdvService qpwtwvfhdvService, RfsklmszexService rfsklmszexService, TsgkezvyuvService tsgkezvyuvService, XqslwycgcbService xqslwycgcbService, PzlmvqxjiaService pzlmvqxjiaService, UgayohjdluService ugayohjdluService, DvmmqbkersService dvmmqbkersService, FxprkouoqyService fxprkouoqyService, SvhjallonzService svhjallonzService, MthdaeytyiService mthdaeytyiService, SousixgvspService sousixgvspService, AfkclhjxkqService afkclhjxkqService, DxqtwcinfhService dxqtwcinfhService, IpyljrzgojService ipyljrzgojService, VufzqvsgknService vufzqvsgknService, EjjqckjwetService ejjqckjwetService, EoyxkfjrukService eoyxkfjrukService, FkpisgdvavService fkpisgdvavService, DjlkntthwdService djlkntthwdService) { }
+
+    public String getGreeting() { return "Hello MhofigfzcxService"; }
+}

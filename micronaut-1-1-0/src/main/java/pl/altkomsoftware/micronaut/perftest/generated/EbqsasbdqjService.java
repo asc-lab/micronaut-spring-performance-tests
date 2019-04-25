@@ -1,0 +1,11 @@
+package pl.altkomsoftware.micronaut.perftest.generated;
+
+import javax.inject.Singleton;
+
+@Singleton
+public class EbqsasbdqjService {
+
+    public EbqsasbdqjService(OdkdzubcblService odkdzubcblService, VufzqvsgknService vufzqvsgknService, CjcnmngejuService cjcnmngejuService, ArjyaiwyxbService arjyaiwyxbService, NvdoevsttsService nvdoevsttsService, EivvqewhleService eivvqewhleService, OmrlqgoqfjService omrlqgoqfjService, MbcqxsbtzgService mbcqxsbtzgService, ZqbgpallsvService zqbgpallsvService, MqdpkfdlswService mqdpkfdlswService, QjzwmuometService qjzwmuometService, KmsemtqayyService kmsemtqayyService, JritzcdsusService jritzcdsusService, XnempsdwpwService xnempsdwpwService, AbgxeodxjsService abgxeodxjsService, XrgyugdppdService xrgyugdppdService, WhulpqozcqService whulpqozcqService, JlbojdpwllService jlbojdpwllService, OqwmjksejiService oqwmjksejiService, HmbrcnjiqiService hmbrcnjiqiService, WosailultbService wosailultbService, WjfdegejqtService wjfdegejqtService, KplmhrxdxuService kplmhrxdxuService, DsvmmrglgkService dsvmmrglgkService, IouxertdqzService iouxertdqzService, SasnuvzzzgService sasnuvzzzgService, UwlruoqrrfService uwlruoqrrfService, HtzuyxsidyService htzuyxsidyService, YnddxvndmhService ynddxvndmhService, KlmyjhtdujService klmyjhtdujService, SuwhdhfeoiService suwhdhfeoiService, WyttayyvenService wyttayyvenService, LpbythddurService lpbythddurService, PpjbocbukhService ppjbocbukhService, IkfgomzegjService ikfgomzegjService, QbokbnarllService qbokbnarllService, QibybnahteService qibybnahteService, NxazzekrddService nxazzekrddService, HtemrjxiarService htemrjxiarService, YsfyrebmknService ysfyrebmknService, WzfktixbfhService wzfktixbfhService, SzkfsyvglqService szkfsyvglqService, EnjwovcoqeService enjwovcoqeService, CqqgwjunbzService cqqgwjunbzService, NtrkkzafrtService ntrkkzafrtService, FeswrszlkqService feswrszlkqService, EjjqckjwetService ejjqckjwetService, IpyljrzgojService ipyljrzgojService, VoqofhzlxaService voqofhzlxaService) { }
+
+    public String getGreeting() { return "Hello EbqsasbdqjService"; }
+}

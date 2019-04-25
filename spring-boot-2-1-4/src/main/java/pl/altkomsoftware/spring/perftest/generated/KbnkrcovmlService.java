@@ -1,0 +1,12 @@
+package pl.altkomsoftware.spring.perftest.generated;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class KbnkrcovmlService {
+
+   public KbnkrcovmlService(HgvsxgxrtuService hgvsxgxrtuService, YqvnztgjnjService yqvnztgjnjService, UyrpszuzhtService uyrpszuzhtService, DqjpvlxzvqService dqjpvlxzvqService, LuwswiiwecService luwswiiwecService, GaypeevtikService gaypeevtikService, OrkfrpkgkeService orkfrpkgkeService, WauwjbowmpService wauwjbowmpService, QnydndynxxService qnydndynxxService, UjpldczflyService ujpldczflyService, UxluydyablService uxluydyablService, MqirhagbsdService mqirhagbsdService, AapfkwasihService aapfkwasihService, XfmuwvxbphService xfmuwvxbphService, QzaqtrqoduService qzaqtrqoduService, FendzjhpooService fendzjhpooService, MmxymscbomService mmxymscbomService, GdahbjbwkvService gdahbjbwkvService, LxuiyymrscService lxuiyymrscService, IjrcjurpxcService ijrcjurpxcService, QhszabcslfService qhszabcslfService, CjwhyomdjqService cjwhyomdjqService, SvlxwdtewxService svlxwdtewxService, ZqpwnvyfdcService zqpwnvyfdcService, RjvnhlvxtnService rjvnhlvxtnService, RgaqilkhuvService rgaqilkhuvService, ZnyenytzndService znyenytzndService, LasbrknmnzService lasbrknmnzService, BqstyemcvmService bqstyemcvmService, FscsycpbrmService fscsycpbrmService, TkaqtcopikService tkaqtcopikService, PrgnacmcizService prgnacmcizService, SdyzifbvziService sdyzifbvziService, IpysfmfwkfService ipysfmfwkfService, VuqbobsxspService vuqbobsxspService, ZvqggmjtqbService zvqggmjtqbService, RjixihuqobService rjixihuqobService, CdnyvgoydiService cdnyvgoydiService, TrgrpbnmsoService trgrpbnmsoService, NfzbpnnazfService nfzbpnnazfService, XynisdxikhService xynisdxikhService, WmhtwgakulService wmhtwgakulService, MadxntgccdService madxntgccdService, AkzwcmxmcwService akzwcmxmcwService, LvtcainpbwService lvtcainpbwService, EwkmzjmykwService ewkmzjmykwService, VabdwxjdppService vabdwxjdppService, LkhfuemdohService lkhfuemdohService, FsjpgfxvrsService fsjpgfxvrsService) { }
+
+   public String getGreeting() { return "Hello KbnkrcovmlService"; }
+
+}

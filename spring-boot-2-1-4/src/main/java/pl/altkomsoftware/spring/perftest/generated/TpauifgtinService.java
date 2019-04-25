@@ -1,0 +1,12 @@
+package pl.altkomsoftware.spring.perftest.generated;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class TpauifgtinService {
+
+   public TpauifgtinService(AigfpfpqdzService aigfpfpqdzService, TscsxcsxegService tscsxcsxegService, LkovwenpysService lkovwenpysService, TuulwnkkntService tuulwnkkntService, ZyhfurdcpnService zyhfurdcpnService, PpfsztdgypService ppfsztdgypService, WjqlnhzxnjService wjqlnhzxnjService, MbjlirypivService mbjlirypivService, QnydndynxxService qnydndynxxService, YfcjvfaefxService yfcjvfaefxService, EmklofvraxService emklofvraxService, VkpoxcqzxlService vkpoxcqzxlService, GjbvzxmabfService gjbvzxmabfService, XvhioxhqtlService xvhioxhqtlService, JetuxdpkjiService jetuxdpkjiService, SqvskiunaiService sqvskiunaiService, GpzsnioqoyService gpzsnioqoyService, LsjstvsiqgService lsjstvsiqgService, FsypvbsvkzService fsypvbsvkzService, YgkitvkbsuService ygkitvkbsuService, YauwchzjbcService yauwchzjbcService, YhhxujrgoyService yhhxujrgoyService, AxcmfdodnrService axcmfdodnrService, ZqlxivnwhyService zqlxivnwhyService, BjmkencwrhService bjmkencwrhService, EqtqcrkbyiService eqtqcrkbyiService, NsuskomfrwService nsuskomfrwService, DlhwepzpbyService dlhwepzpbyService, UjpldczflyService ujpldczflyService, BaecvrklrlService baecvrklrlService, MeiczzzvghService meiczzzvghService, RvoagymqcmService rvoagymqcmService, DpqunfjedyService dpqunfjedyService, TcqhqxzgauService tcqhqxzgauService, PdmxkhizsuService pdmxkhizsuService, QimnuvzvxvService qimnuvzvxvService, PulqxtvuyrService pulqxtvuyrService, XzpswpheewService xzpswpheewService, WyvgyqynouService wyvgyqynouService, XzlghpazvqService xzlghpazvqService, RjwazwvyjwService rjwazwvyjwService, AxxqhuzaihService axxqhuzaihService, HlepvdvtyrService hlepvdvtyrService, MadxntgccdService madxntgccdService, DjrtrhkzqtService djrtrhkzqtService) { }
+
+   public String getGreeting() { return "Hello TpauifgtinService"; }
+
+}

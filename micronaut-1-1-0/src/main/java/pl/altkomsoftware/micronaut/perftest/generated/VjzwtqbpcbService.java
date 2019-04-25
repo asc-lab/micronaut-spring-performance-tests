@@ -1,0 +1,11 @@
+package pl.altkomsoftware.micronaut.perftest.generated;
+
+import javax.inject.Singleton;
+
+@Singleton
+public class VjzwtqbpcbService {
+
+    public VjzwtqbpcbService(SullemleetService sullemleetService, CqqgwjunbzService cqqgwjunbzService, UvvbojqkxlService uvvbojqkxlService, HvgidyenfaService hvgidyenfaService, EfcgnnqhezService efcgnnqhezService, HtzuyxsidyService htzuyxsidyService, JcnmjxjqzbService jcnmjxjqzbService, YhvmuwmbypService yhvmuwmbypService, YqtzwjdojyService yqtzwjdojyService, XrjcwozkshService xrjcwozkshService, BwqgxxyokkService bwqgxxyokkService, CxqsdmkyjxService cxqsdmkyjxService, AymkwfmnxjService aymkwfmnxjService, InbfnqkantService inbfnqkantService, LrfgvjebxxService lrfgvjebxxService, RfozmkrexoService rfozmkrexoService, SmxycucrjaService smxycucrjaService, OgbcrptvruService ogbcrptvruService, MmabeqftwjService mmabeqftwjService, IfzgvfrvnrService ifzgvfrvnrService, SzkfsyvglqService szkfsyvglqService, HonqpitiqzService honqpitiqzService, LmhswryqpfService lmhswryqpfService, IagwpthrocService iagwpthrocService, GliepzmdmhService gliepzmdmhService, BvxpienuofService bvxpienuofService, SflkgisaedService sflkgisaedService, UbaglkatgaService ubaglkatgaService, TkoobvfszpService tkoobvfszpService, WnangzuscyService wnangzuscyService, KnlnwcgxvrService knlnwcgxvrService, WjfdegejqtService wjfdegejqtService, UcnbtunzrcService ucnbtunzrcService, MtztwhbiwzService mtztwhbiwzService, YnddxvndmhService ynddxvndmhService, NiqtppxmxaService niqtppxmxaService, XcawovwvifService xcawovwvifService, OuchdfswpkService ouchdfswpkService, PwcaxvytffService pwcaxvytffService, JosaobbtleService josaobbtleService, XpapudayetService xpapudayetService, IzjctbwkxgService izjctbwkxgService, ClqcuvfbwwService clqcuvfbwwService, OmrlqgoqfjService omrlqgoqfjService, YrcwirienoService yrcwirienoService, MflathkdtwService mflathkdtwService, EzoxdetyhgService ezoxdetyhgService, MtrrscvqhxService mtrrscvqhxService, OqwmjksejiService oqwmjksejiService) { }
+
+    public String getGreeting() { return "Hello VjzwtqbpcbService"; }
+}

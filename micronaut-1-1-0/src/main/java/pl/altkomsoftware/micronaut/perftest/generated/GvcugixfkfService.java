@@ -1,0 +1,11 @@
+package pl.altkomsoftware.micronaut.perftest.generated;
+
+import javax.inject.Singleton;
+
+@Singleton
+public class GvcugixfkfService {
+
+    public GvcugixfkfService(QgloixvbicService qgloixvbicService, IokrkglqlgService iokrkglqlgService, EoyxkfjrukService eoyxkfjrukService, DpmfyeqswnService dpmfyeqswnService, TdayokeluvService tdayokeluvService, EicqcqdqcyService eicqcqdqcyService, ZkquvyrdbuService zkquvyrdbuService, YppjarfnajService yppjarfnajService, DhiaqpglawService dhiaqpglawService, JdtfenzidvService jdtfenzidvService, DomptwkknwService domptwkknwService, XnempsdwpwService xnempsdwpwService, MylmlzxhcqService mylmlzxhcqService, LkeijmqucfService lkeijmqucfService, SfawuvmherService sfawuvmherService, EhqkcphohxService ehqkcphohxService, FuqifwospvService fuqifwospvService, RfozmkrexoService rfozmkrexoService, XxucauaxtzService xxucauaxtzService, NpnmwrbjduService npnmwrbjduService, JfddzsxvwuService jfddzsxvwuService, XjdeovmjkbService xjdeovmjkbService, PawzrlibeuService pawzrlibeuService, MadvbyyimiService madvbyyimiService, LpbythddurService lpbythddurService, DtwkgwdwfmService dtwkgwdwfmService, AiiaggxdtyService aiiaggxdtyService, WhulpqozcqService whulpqozcqService, JgzvyysldnService jgzvyysldnService, QgdnuxwnnaService qgdnuxwnnaService, SousixgvspService sousixgvspService, LoasvccczxService loasvccczxService, EytkosrutwService eytkosrutwService, EqppkauhtxService eqppkauhtxService, OctrobbwimService octrobbwimService, BusopawkssService busopawkssService, NpxmpuxgftService npxmpuxgftService, SmkuhixjfwService smkuhixjfwService, GcymbfqlevService gcymbfqlevService, EbqsasbdqjService ebqsasbdqjService, SlwkgpxhawService slwkgpxhawService, JjlzhuzkpuService jjlzhuzkpuService, IxmfgcdsuhService ixmfgcdsuhService, DjakqchoibService djakqchoibService, AbgxeodxjsService abgxeodxjsService, EbrzhldlibService ebrzhldlibService, VrdnawjbhyService vrdnawjbhyService, TpgljvxybrService tpgljvxybrService, YogoiufwtzService yogoiufwtzService) { }
+
+    public String getGreeting() { return "Hello GvcugixfkfService"; }
+}

@@ -1,0 +1,11 @@
+package pl.altkomsoftware.micronaut.perftest.generated;
+
+import javax.inject.Singleton;
+
+@Singleton
+public class OeihldtcjhService {
+
+    public OeihldtcjhService(AteozogqipService ateozogqipService, BkshtwcvqxService bkshtwcvqxService, VtcvkcfzixService vtcvkcfzixService, SpgxswnunqService spgxswnunqService, JamadrhmexService jamadrhmexService, KhfaecbnjvService khfaecbnjvService, AceeuuoxosService aceeuuoxosService, McncqvssrzService mcncqvssrzService, DxqtwcinfhService dxqtwcinfhService, BwyopgjzqvService bwyopgjzqvService, EwqhvunocaService ewqhvunocaService, EkliapqazhService ekliapqazhService, ItgfrfxraoService itgfrfxraoService, VslotmrylwService vslotmrylwService, GhbfmvrntlService ghbfmvrntlService, XxucauaxtzService xxucauaxtzService, OolzjorlcpService oolzjorlcpService, AydfjzrpfmService aydfjzrpfmService, RtqcpbvzctService rtqcpbvzctService, ZtfdwgthnhService ztfdwgthnhService, FkpisgdvavService fkpisgdvavService, XiirzmjajsService xiirzmjajsService, IuafcfjviwService iuafcfjviwService, SqrpjobjueService sqrpjobjueService, JjlzhuzkpuService jjlzhuzkpuService, ZhujtnsseyService zhujtnsseyService, UkijvafoqcService ukijvafoqcService, UwlruoqrrfService uwlruoqrrfService, QvyouolandService qvyouolandService, ShugcmebxjService shugcmebxjService, SlwkgpxhawService slwkgpxhawService, FeswrszlkqService feswrszlkqService, HqlapvmdxoService hqlapvmdxoService, HjxdzlanwyService hjxdzlanwyService, TglyhfcgreService tglyhfcgreService, BvxpienuofService bvxpienuofService, DsvmmrglgkService dsvmmrglgkService, AvasigwvrqService avasigwvrqService, OrqhhzdevpService orqhhzdevpService, PcpilzlwnuService pcpilzlwnuService, WcpjbgnauiService wcpjbgnauiService, YjqpnhhhybService yjqpnhhhybService, ZlhjhvrgelService zlhjhvrgelService, MyfipwhixyService myfipwhixyService, QjexecsjxpService qjexecsjxpService, QfaikprccbService qfaikprccbService, OxtgfxkamrService oxtgfxkamrService, XsculmcaynService xsculmcaynService, BtedpziezgService btedpziezgService) { }
+
+    public String getGreeting() { return "Hello OeihldtcjhService"; }
+}

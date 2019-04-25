@@ -1,0 +1,11 @@
+package pl.altkomsoftware.micronaut.perftest.generated;
+
+import javax.inject.Singleton;
+
+@Singleton
+public class AydfjzrpfmService {
+
+    public AydfjzrpfmService(UcnbtunzrcService ucnbtunzrcService, BhlrltmyvbService bhlrltmyvbService, OctrobbwimService octrobbwimService, ZqbgpallsvService zqbgpallsvService, OmjvodjbfaService omjvodjbfaService, EpyjwfeemdService epyjwfeemdService, KliasvsmhbService kliasvsmhbService, XrjcwozkshService xrjcwozkshService, ForqgxsqfpService forqgxsqfpService, BwyopgjzqvService bwyopgjzqvService, HtemrjxiarService htemrjxiarService, MvilehefhuService mvilehefhuService, CxqsdmkyjxService cxqsdmkyjxService, UfotzzeujgService ufotzzeujgService, RuxyyjeenvService ruxyyjeenvService, MmabeqftwjService mmabeqftwjService, FqlbykrwrnService fqlbykrwrnService, HkxamnqkskService hkxamnqkskService, BlitjlrjuwService blitjlrjuwService, ShugcmebxjService shugcmebxjService, PpjbocbukhService ppjbocbukhService, JllbhabvjmService jllbhabvjmService, DjlkntthwdService djlkntthwdService, TudffbmetdService tudffbmetdService, DiqzupvhqeService diqzupvhqeService, QyvvkospxkService qyvvkospxkService, QfaikprccbService qfaikprccbService, UjredubvykService ujredubvykService, QjrhdmthakService qjrhdmthakService, HvgidyenfaService hvgidyenfaService, FpmvcsiwsdService fpmvcsiwsdService, RfsklmszexService rfsklmszexService, AfkclhjxkqService afkclhjxkqService, IlnnieearvService ilnnieearvService, NvdoevsttsService nvdoevsttsService, PcpilzlwnuService pcpilzlwnuService, CcymazdskaService ccymazdskaService, KefssvpaqvService kefssvpaqvService, DfkkivggkmService dfkkivggkmService, ZalnpesbxyService zalnpesbxyService, UeqrctwcwdService ueqrctwcwdService, QpwtwvfhdvService qpwtwvfhdvService, HovyzdioexService hovyzdioexService, CscofmkhxrService cscofmkhxrService, SqcdkycvjtService sqcdkycvjtService, HzzuuyqtkbService hzzuuyqtkbService, ZgwubplyvkService zgwubplyvkService) { }
+
+    public String getGreeting() { return "Hello AydfjzrpfmService"; }
+}
