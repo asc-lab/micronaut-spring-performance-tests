@@ -113,13 +113,13 @@ We use [Lusk](https://github.com/musketyr/lusk) to generate some example beans f
 ### Micronaut
 Generate 1000 beans in `generated` package:
 ```
-lusk -c1000 -fmicronaut -p "pl.altkomsoftware.micronaut.perftest.generated" C:\asclab\asclab-micronaut-vs-spring\micronaut-1-1-0\perftest
+lusk -c1000 -fmicronaut -p "pl.altkomsoftware.micronaut.perftest.generated" [path-to-repo]\micronaut-1-1-0
 ```
 
 ### Spring Boot
 Generate 1000 beans in `generated` package:
 ```
-lusk -c1000 -fspring -p "pl.altkomsoftware.spring.perftest.generated" C:\asclab\asclab-micronaut-vs-spring\spring-boot-2-1-4\perftest
+lusk -c1000 -fspring -p "pl.altkomsoftware.spring.perftest.generated" [path-to-repo]\spring-boot-2-1-4
 ```
 
 ## Performance tests
