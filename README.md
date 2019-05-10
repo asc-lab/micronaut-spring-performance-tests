@@ -8,18 +8,6 @@ Few words about projects:
 * **Micronaut_Mongo** - Micronaut with dependencies: Web, Mongo, Lombok, Validations
 * **Spring_Mongo** - Spring Boot with dependencies: Web, Mongo, Lombok, Validations
 
-### Empty project only with some dependencies
-
-**Ubuntu on private laptop** \
-Intel Core i7-8550U, 32GB RAM, SSD
-
-|                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
-| ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time              | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| startup time            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| memory usage            | 0.000s    | 0.000s | 0.000s          | ~000MB       |
-| heap size               | ~110MB    | ~280MB | ~65MB           | ~000MB       |
-
 ### Project with Customer+Product+Order func
 
 **Windows 10 on private laptop** \
