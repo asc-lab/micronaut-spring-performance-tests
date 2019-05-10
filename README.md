@@ -57,16 +57,17 @@ Intel Core i7-3610QM, 16GB RAM, SSD
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
 | build time              | ~71s      | ~23s   | ------          | ------       |
 | startup time            | ~9s       | ~12s   | ------          | ------       |
-| memory usage            | 435MB     | 470MB  | ------          | ------       |
+| memory usage            | ~435MB    | ~470MB | ------          | ------       |
 
 **Ubuntu on private laptop** \
 Intel Core i7-8550U, 32GB RAM, SSD
 
 |                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time              | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| startup time            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| memory usage            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+| build time              | ~25s      |   ~14s | ------          | ------       |
+| startup time            | ~6s       | ~16s   | ------          | ------       |
+| memory usage            | ~500MB    | ~590MB | ------          | ------       |
+| heap size               | ~130MB    | ------ | ------          | ------       |
 
 **Jenkins** \
 TODO
