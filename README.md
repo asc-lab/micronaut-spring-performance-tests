@@ -10,67 +10,52 @@ Few words about projects:
 
 ### Empty project only with some dependencies
 
-**Windows 10 on private laptop** \
-Intel Core i7-3610QM, 16GB RAM, Samsung SSD 850 EVO
-
-|                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
-| ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time without test | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| build time with test    | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| startup time            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| memory usage            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-
 **Ubuntu on private laptop** \
-TODO
+Intel Core i7-8550U, 32GB RAM, SSD
 
 |                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time without test | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| build time with test    | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+| build time              | 0.000s    | 0.000s | 0.000s          | 0.000s       |
 | startup time            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| memory usage            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-
-**CentOS on server** \
-TODO
-
-|                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
-| ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time without test | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| build time with test    | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| startup time            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| memory usage            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+| memory usage            | 0.000s    | 0.000s | 0.000s          | ~000MB       |
+| heap size               | ~110MB    | ~280MB | ~65MB           | ~000MB       |
 
 ### Project with Customer+Product+Order func
 
 **Windows 10 on private laptop** \
-Intel Core i7-3610QM, 16GB RAM, Samsung SSD 850 EVO
+Intel Core i7-3610QM, 16GB RAM, SSD
 
 |                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time without test | ~16s      | 11-12s | 0.000s          | 0.000s       |
-| build time with test    | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| startup time            | ~5.5s     | ~7.0s  | 0.000s          | 0.000s       |
-| memory usage            | ~240MB    | ~430MB | 0.000s          | 0.000s       |
+| build time              | ~16s      | ~11s   | ------          | ------       |
+| startup time            | ~5.5s     | ~7.0s  | ------          | ------       |
+| memory usage            | ~240MB    | ~430MB | ------          | ------       |
 
 **Ubuntu on private laptop** \
+Intel Core i7-8550U, 32GB RAM, SSD
+
+|                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
+| ----------------------- | ---------:| ------:| ---------------:| ------------:|
+| build time              |    ~8s    | ~7s    |    ~8s          | ~7s          |
+| startup time            |    ~3s    | ~6-8s  |    ~1s          | ~5s          |
+| memory usage            | ~350MB    | ~460MB | ~170MB          | ~320MB       |
+| heap size               | ~110MB    | ~280MB | ~65MB           | ~160MB       |
+
+**Jenkins** \
 TODO
 
 |                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time without test | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| build time with test    | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| startup time            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| memory usage            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+| build time              | 0.000s    | 0.000s | 0.000s          | 0.000s       |
 
-**CentOS on server** \
-TODO
+**myDevil MD2**
 
 |                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time without test | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| build time with test    | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+| build time              | 0.000s    | 0.000s | 0.000s          | 0.000s       |
 | startup time            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
 | memory usage            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+
 
 ### Project with Customer+Product+Order func & 1000 beans auto-generated
 
@@ -78,34 +63,42 @@ In each app context are circa 1200 beans.
 If you want check exactly number, change property `beans.counter` to `true`.
 
 **Windows 10 on private laptop** \
-Intel Core i7-3610QM, 16GB RAM, Samsung SSD 850 EVO
+Intel Core i7-3610QM, 16GB RAM, SSD
 
 |                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time without test | ~71s      | ~23s   | 0.000s          | 0.000s       |
-| build time with test    | ------    | ------ | 0.000s          | 0.000s       |
-| startup time            | ~9s       | ~12s   | 0.000s          | 0.000s       |
-| memory usage            | 435MB     | 470MB  | 0.000s          | 0.000s       |
+| build time              | ~71s      | ~23s   | ------          | ------       |
+| startup time            | ~9s       | ~12s   | ------          | ------       |
+| memory usage            | 435MB     | 470MB  | ------          | ------       |
 
 **Ubuntu on private laptop** \
+Intel Core i7-8550U, 32GB RAM, SSD
+
+|                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
+| ----------------------- | ---------:| ------:| ---------------:| ------------:|
+| build time              | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+| startup time            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+| memory usage            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+
+**Jenkins** \
 TODO
 
 |                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time without test | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| build time with test    | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| startup time            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| memory usage            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+| build time              | 0.000s    | 0.000s | 0.000s          | 0.000s       |
 
-**CentOS on server** \
-TODO
+**myDevil MD2**
 
 |                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time without test | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| build time with test    | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+| build time              | 0.000s    | 0.000s | 0.000s          | 0.000s       |
 | startup time            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
 | memory usage            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+
+## Memory usage
+```
+jcmd JAVA_PROCESS_ID GC.heap_info
+```
 
 ## Beans generator
 We use [Lusk](https://github.com/musketyr/lusk) to generate some example beans for apps.
