@@ -1,7 +1,5 @@
 # Spring Boot vs Micronaut performance test
 
-## Sample Projects
-
 Few words about projects:
 * **Micronaut** - Micronaut with dependencies: Web, JPA, Lombok, Validations
 * **Spring** - Spring Boot with dependencies: Web, JPA, Lombok, Validations
@@ -30,20 +28,11 @@ Intel Core i7-8550U, 32GB RAM, SSD
 | heap size               | ~110MB    | ~280MB | ~65MB           | ~160MB       |
 
 **Jenkins** \
-TODO
+Intel Xeon E5-2640 v2 @ 2.00GHz, 16GB RAM, HDD
 
 |                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time              | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-
-**myDevil MD2**
-
-|                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
-| ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time              | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| startup time            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| memory usage            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-
+| build time              | ~14s      | ~6s    | ~7s             | ~6s          |
 
 ### Project with Customer+Product+Order func & 1000 beans auto-generated
 
@@ -70,19 +59,11 @@ Intel Core i7-8550U, 32GB RAM, SSD
 | heap size               | ~130MB    | ------ | ------          | ------       |
 
 **Jenkins** \
-TODO
+Intel Xeon E5-2640 v2 @ 2.00GHz, 16GB RAM, HDD
 
 |                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time              | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-
-**myDevil MD2**
-
-|                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
-| ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time              | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| startup time            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
-| memory usage            | 0.000s    | 0.000s | 0.000s          | 0.000s       |
+| build time              | ~28s      | ~9s    | ------          | ------       |
 
 ## Memory usage
 ```
