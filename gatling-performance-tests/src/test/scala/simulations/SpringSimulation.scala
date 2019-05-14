@@ -6,7 +6,7 @@ import io.gatling.http.Predef._
 class SpringSimulation extends Simulation {
 
   val config = http
-    .baseUrl("http://localhost:8081") // Here is the root for all relative URLs
+    .baseUrl("http://localhost:9998") // Here is the root for all relative URLs
     .acceptHeader("text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8") // Here are the common headers
     .acceptEncodingHeader("gzip, deflate")
     .acceptLanguageHeader("en-US,en;q=0.5")
