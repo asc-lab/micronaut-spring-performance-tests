@@ -97,5 +97,5 @@ mvn gatling:test -Dgatling.simulationClass=simulations.SpringSimulation
 ```
 Only for Micronaut:
 ```
-mvn gatling:test -Dgatling.simulationClass=micronaut.MicronautSimulation
+mvn gatling:test -Dgatling.simulationClass=simulations.MicronautSimulation
 ```
