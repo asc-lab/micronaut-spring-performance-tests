@@ -72,13 +72,6 @@
             <scope>compile</scope>
         </dependency>
 
-        <!--
-        <dependency>
-            <groupId>io.micronaut.configuration</groupId>
-            <artifactId>micronaut-mongo-reactive</artifactId>
-        </dependency>
-        -->
-
         <dependency>
             <groupId>org.mongodb</groupId>
             <artifactId>mongo-java-driver</artifactId>
