@@ -39,5 +39,5 @@ class MicronautSimulation extends Simulation {
       .check(status.is(200))
     )
 
-  setUp(scn.inject(atOnceUsers(2000)).protocols(config))
+  setUp(scn.inject(atOnceUsers(1000)).protocols(config))
 }

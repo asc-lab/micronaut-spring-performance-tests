@@ -9,4 +9,4 @@ mongodb:
   uri: mongodb://localhost:27017/perftestpolicy
 ---
 beans:
-  counter: false
+  counter: true
