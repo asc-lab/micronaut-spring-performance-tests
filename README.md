@@ -61,7 +61,7 @@ Intel Xeon E5-2640 v2 @ 2.00GHz, 16GB RAM, HDD
 | build time              | ~28s      | ~9s    | ------          | ------       |
 
 ## Run performance tests
-**Prerequisites**: Scala. \
+**Prerequisites**: Scala.
 
 Go to `gatling-performance-tests` and run all simulations:
 ```
