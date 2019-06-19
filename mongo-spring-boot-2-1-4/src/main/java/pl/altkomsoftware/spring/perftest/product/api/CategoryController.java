@@ -8,7 +8,7 @@ import pl.altkomsoftware.spring.perftest.product.ListCategoriesHandler;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/category/")
+@RequestMapping("/api/category")
 @RequiredArgsConstructor
 public class CategoryController {
     private final CreateCategoryHandler createCategory;
@@ -19,7 +19,7 @@ public class CategoryController {
         return createCategory.handle(cmd);
     }
 
-    @GetMapping("all")
+    @GetMapping("/all")
     public List<CategoryDto> listAll(){
         return listCategories.handle(new ListCategoriesQuery());
     }

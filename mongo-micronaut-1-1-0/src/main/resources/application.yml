@@ -2,6 +2,8 @@
 micronaut:
   application:
     name: perftest
+  server:
+    port: 9989
 ---
 datasources.default: {}
 ---
