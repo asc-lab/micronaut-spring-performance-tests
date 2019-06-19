@@ -9,7 +9,7 @@ Few words about projects:
 ## Project with Customer+Product+Order func
 
 A few simple endpoints have been created in the projects so that the tests are done on something more than "hello-world example".
-In each app context are 180-220 beans. \
+In each app context are 180-220 beans.
 
 Build using: 
 ```
