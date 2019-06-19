@@ -8,15 +8,6 @@ Few words about projects:
 
 ### Project with Customer+Product+Order func
 
-**Windows 10 on private laptop** \
-Intel Core i7-3610QM, 16GB RAM, SSD
-
-|                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
-| ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time              | ~16s      | ~11s   | ------          | ------       |
-| startup time            | ~5-6s     | ~7s    | ------          | ------       |
-| memory usage            | ~240MB    | ~430MB | ------          | ------       |
-
 **Ubuntu on private laptop** \
 Intel Core i7-8550U, 32GB RAM, SSD
 
@@ -39,15 +30,6 @@ Intel Xeon E5-2640 v2 @ 2.00GHz, 16GB RAM, HDD
 In each app context are circa 1200 beans.
 If you want check exactly number, change property `beans.counter` to `true`.
 
-**Windows 10 on private laptop** \
-Intel Core i7-3610QM, 16GB RAM, SSD
-
-|                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
-| ----------------------- | ---------:| ------:| ---------------:| ------------:|
-| build time              | ~71s      | ~23s   | ------          | ------       |
-| startup time            | ~9s       | ~12s   | ------          | ------       |
-| memory usage            | ~435MB    | ~470MB | ------          | ------       |
-
 **Ubuntu on private laptop** \
 Intel Core i7-8550U, 32GB RAM, SSD
 
@@ -64,11 +46,6 @@ Intel Xeon E5-2640 v2 @ 2.00GHz, 16GB RAM, HDD
 |                         | Micronaut | Spring | Micronaut_Mongo | Spring_Mongo |
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
 | build time              | ~28s      | ~9s    | ------          | ------       |
-
-## Memory usage
-```
-jcmd JAVA_PROCESS_ID GC.heap_info
-```
 
 ## Beans generator
 We use [Lusk](https://github.com/musketyr/lusk) to generate some example beans for apps.
