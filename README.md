@@ -8,6 +8,8 @@ Few words about projects:
 
 ## Project with Customer+Product+Order func
 
+**Prerequisites**: MongoDB
+
 A few simple endpoints have been created in the projects so that the tests are done on something more than "hello-world example".
 In each app context are 180-220 beans.
 
@@ -61,7 +63,7 @@ Intel Xeon E5-2640 v2 @ 2.00GHz, 16GB RAM, HDD
 | build time              | ~28s      | ~9s    | ------          | ------       |
 
 ## Run performance tests
-**Prerequisites**: Scala.
+**Prerequisites**: Scala
 
 Go to `gatling-performance-tests` and run all simulations:
 ```
