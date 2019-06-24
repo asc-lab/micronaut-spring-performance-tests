@@ -30,8 +30,8 @@ Intel Core i7-8550U, 32GB RAM, SSD
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
 | build time              |    ~8s    | ~7s    |    ~8s          | ~7s          |
 | startup time            |    ~3s    | ~6-8s  |    ~1s          | ~5s          |
-| memory usage            | ~350MB    | ~460MB | ~170MB          | ~320MB       |
-| heap size               | ~110MB    | ~280MB | ~65MB           | ~160MB       |
+| heap size               | ~350MB    | ~460MB | ~170MB          | ~320MB       |
+| used heap               | ~110MB    | ~280MB | ~65MB           | ~160MB       |
 
 **Jenkins** \
 Intel Xeon E5-2640 v2 @ 2.00GHz, 16GB RAM, HDD
@@ -52,8 +52,8 @@ Intel Core i7-8550U, 32GB RAM, SSD
 | ----------------------- | ---------:| ------:| ---------------:| ------------:|
 | build time              | ~25s      | ~14s   | ------          | ------       |
 | startup time            | ~6s       | ~16s   | ------          | ------       |
-| memory usage            | ~500MB    | ~590MB | ------          | ------       |
-| heap size               | ~130MB    | ~300MB | ------          | ------       |
+| heap size               | ~500MB    | ~590MB | ------          | ------       |
+| used heap               | ~130MB    | ~300MB | ------          | ------       |
 
 **Jenkins** \
 Intel Xeon E5-2640 v2 @ 2.00GHz, 16GB RAM, HDD
